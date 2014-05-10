@@ -21,7 +21,7 @@ Snakey.io implementation files
 3. Install dependencies
 
     ```bash
-    npm install package.json
+    npm install
     ```
 
 
